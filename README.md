@@ -15,3 +15,20 @@ This project aims to consolidate and analyze Nexwave’s data to answer key ques
 
 <h1 align="center"><b>Executive Summary</b></h1>
 <h1 align="center">Sales Revenue Analysis (2019–2022)</h1>
+<p align="center"> 
+<img src="visualizations/Sales Revenue Analysis.png" width="700">
+</p>
+
+•	Nexwave’s sales surged sharply during the 2020 pandemic, peaking at $1.24M in December, before entering a prolonged decline through 2022. 
+
+•	As shown in the chart above, the downturn was driven primarily by declining order volume rather than pricing, as Average Order Value (AOV) remained relatively stable post-pandemic.
+
+•	Revenue is heavily concentrated in high-ticket products and the North American market, increasing sensitivity to demand shifts. While loyalty customers consistently outperform non-loyalty customers across revenue, AOV, and retention, they also exhibit higher refund rates. 
+
+•	These findings point to clear opportunities to reignite demand, strengthen loyalty engagement, diversify acquisition channels, and expand regional growth.
+
+## Data structure and ERD:  
+
+The database contains four tables: Orders, Customers, Geo Lookup and Order status. The data spans the period from 2019 to 2022 and includes over 108,000 transactions.
+
+
