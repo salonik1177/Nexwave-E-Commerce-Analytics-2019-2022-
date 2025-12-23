@@ -38,8 +38,52 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
  
 ## Insights Deep Dive:
 
-# Sales Trends:
+<h1 align="center">Sales Trends</h1>
 
-<img src="visualizations/.png" width="700">
+### Sales Revenue
 
+<p align="center"> 
+<img src="visualizations/Sales Revenue.png" width="550">
+</p>
+
+•  Sales peaked in Dec 2020 at $1.24M, driven by pandemic-boosted online demand.
+
+•  2022 marked a major downturn, with Dec 2022 revenue falling to ~$178K - a 70–80% drop from prior holiday seasons.
+
+•  The decline was consistent across all quarters of 2022, signaling weaker demand rather than pricing issues.
+
+•  Pandemic surge → 2021 stabilization → 2022 correction, likely influenced by inflation, reduced consumer spending, and stronger competition.
+
+•  The sharp Q4 2022 underperformance suggests retention and demand-generation challenges that may require new marketing and pricing strategies.
+
+### Average Order Value (AOV)
+
+<p align="center"> 
+<img src="visualizations/Average Order Value (AOV).png" width="550">
+</p>
+
+•  AOV peaked in late 2020 (~$321) during the pandemic, when customers were spending more per order.
+
+•  From 2021–2022, AOV steadily declined, returning close to pre-pandemic levels (~$220–$240).
+
+•  2022 showed more volatility, with AOV swinging between $215–$255, and holiday-period AOV notably weaker than in prior years.
+
+•  The drop in AOV was gradual (≈25–30% from the 2020 peak) and not the main cause of the 2022 revenue decline - reduced order volume had a much bigger impact.
+
+
+### Order Count
+
+<p align="center"> 
+<img src="visualizations/No. of Orders.png" width="550">
+</p>
+
+•  Order count is the strongest driver of revenue, closely tracking the rise and fall of monthly sales across all years.
+
+•  Orders peaked in late 2020 (~4,000 orders), then declined steadily through 2021 and sharply in 2022.
+
+•  Order volume fell nearly 40% from 2021 to 2022, confirming that reduced purchase frequency, not AOV was the primary cause of the revenue decline.
+
+•  The steepest drop occurred in mid-2022, with monthly orders falling rapidly into early Q4.
+
+•  By October 2022, orders hit a low of ~825, signaling a significant weakening in customer demand.
 
