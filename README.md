@@ -1,1 +1,1 @@
-# Nexwave-E-Commerce-Analytics-2019-2022-
+<img src="visualizations/Nexwavelogo.png" width="200">
