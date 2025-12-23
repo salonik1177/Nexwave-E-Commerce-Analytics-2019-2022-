@@ -31,4 +31,15 @@ This project aims to consolidate and analyze Nexwave’s data to answer key ques
 
 The database contains four tables: Orders, Customers, Geo Lookup and Order status. The data spans the period from 2019 to 2022 and includes over 108,000 transactions.
 
+<p align="center"> 
+<img src="visualizations/ERD.drawio.png" width="500">
+</p>
+
+ 
+## Insights Deep Dive:
+
+# Sales Trends:
+
+<img src="visualizations/.png" width="700">
+
 
