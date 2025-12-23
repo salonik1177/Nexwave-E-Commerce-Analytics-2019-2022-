@@ -1,1 +1,1 @@
-<img src="visualizations/Nexwave logo.png" width="200">
+<img src="visualizations/Nexwave Logo.png" width="200">
