@@ -87,3 +87,44 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 
 •  By October 2022, orders hit a low of ~825, signaling a significant weakening in customer demand.
 
+## 
+<b>The MoM analysis reveals that sales growth fluctuates widely while AOV stays relatively stable, confirming that revenue shifts are driven primarily by changes in order volume rather than customer spend.</b>
+
+<p align="center"> 
+<img src="visualizations/Sales vs AOV.png" width="600">
+</p>
+
+<h1 align="center">Product Performance</h1>
+
+<p align="center"> 
+<img src="visualizations/Product Performance.png" width="700">
+</p>
+
+<b>Performance of Key Product Categories</b>
+
+•	Revenue was concentrated in a few high-value products (MacBook Air, ThinkPad Laptop, 27” 4K Gaming Monitor, Apple AirPods), which consistently outperformed all other categories.
+
+•	Top products peaked in 2020, with several exceeding $300K+ in monthly revenue during the pandemic demand surge.
+
+•	Sales declined sharply from 2021 to 2022, with most premium products dropping to below $100K per month by late 2022, indicating a broad market slowdown rather than individual product issues.
+
+•	High-ticket products showed significant volatility, experiencing major spikes during peak periods and steep declines afterwards.
+
+•	Lower-priced accessories (charging cables, webcams, Bose headphones) had stable but low revenue, typically under $20K per month, reinforcing Nexwave’s dependency on a small set of premium items for overall revenue.
+
+<b>AOV Over Time (2019-20222)</b>
+
+<p align="center"> 
+<img src="visualizations/AOV Over Time (Product-Level).png" width="600">
+</p>
+
+•  Laptops consistently lead AOV, ranging from $1,500–$1,650 through 2019–2021, dipping slightly in 2022.
+
+•  Premium products such as gaming monitors and high-end headphones maintained strong mid-range AOVs ($400–$1,100) across all years.
+
+•  Low-cost accessories (webcams, cables) held AOVs below $150 with little variation year to year.
+
+•  AOV declined only gradually post-2020, showing stable pricing even as demand fell.
+
+•  Indicates that Nexwave’s revenue drop was caused by fewer orders, not lower spending per order. 
+
