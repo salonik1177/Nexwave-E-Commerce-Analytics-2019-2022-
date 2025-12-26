@@ -94,6 +94,7 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 <img src="visualizations/Sales vs AOV.png" width="600">
 </p>
 
+#
 <h1 align="center">Product Performance</h1>
 
 <p align="center"> 
@@ -127,4 +128,8 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 •  AOV declined only gradually post-2020, showing stable pricing even as demand fell.
 
 •  Indicates that Nexwave’s revenue drop was caused by fewer orders, not lower spending per order. 
+
+#
+<h1 align="center">Loyalty Program Learnings</h1>
+
 
