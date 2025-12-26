@@ -132,4 +132,6 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 #
 <h1 align="center">Loyalty Program Learnings</h1>
 
-
+<p align="center"> 
+<img src="visualizations/Table Insights.png" width="880">
+</p>
