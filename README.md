@@ -132,6 +132,29 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 #
 <h1 align="center">Loyalty Program Learnings</h1>
 
-<p align="center"> 
+<p align="centre"> 
 <img src="visualizations/Table Insights.png" width="880">
 </p>
+
+•	Loyalty customers consistently generate higher value, contributing more revenue and orders than non-loyalty customers by 2022.
+
+•	In 2022, loyalty members recorded a higher AOV ($245) compared to non-loyalty members ($214), reflecting stronger spending behaviour.
+
+•	While both segments declined after the pandemic peak, non-loyalty customers experienced sharper drops in sales, AOV, and order volume.
+
+•	Loyalty purchases show higher refund rates overall, indicating greater engagement but also increased return activity.
+
+•	Post-2020, loyalty members sustained performance better than non-loyalty members across sales and order metrics.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="visualizations/Loyalty Program 1.png" width="450"/>
+      <br><b>Number of Orders by Loyalty Status</b>
+    </td>
+    <td align="center">
+      <img src="visualizations/Loyalty Program 2.png" width="450"/>
+      <br><b>Average Order Value by Loyalty Status</b>
+    </td>
+  </tr>
+</table>
