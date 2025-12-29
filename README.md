@@ -113,11 +113,12 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 
 •	Lower-priced accessories (charging cables, webcams, Bose headphones) had stable but low revenue, typically under $20K per month, reinforcing Nexwave’s dependency on a small set of premium items for overall revenue.
 
-<b>AOV Over Time (2019-20222)</b>
 
 <p align="center"> 
 <img src="visualizations/AOV Over Time (Product-Level).png" width="600">
 </p>
+
+<b>AOV Over Time (2019-20222)</b>
 
 •  Laptops consistently lead AOV, ranging from $1,500–$1,650 through 2019–2021, dipping slightly in 2022.
 
@@ -153,8 +154,93 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
       <br><b>Number of Orders by Loyalty Status</b>
     </td>
     <td align="center">
-      <img src="visualizations/Loyalty Program 2.png" width="450"/>
+      <img src="visualizations/Loyalty Program 2.png" width="460"/>
       <br><b>Average Order Value by Loyalty Status</b>
     </td>
   </tr>
 </table>
+
+•	Loyalty members place more orders over time, surpassing non-loyalty order volume during the pandemic and remaining competitive through 2022.
+
+•	AOV for loyalty customers remained relatively stable and trended upward post-2021, while non-loyalty AOV declined more sharply.
+
+•	Order volume for both segments declined in 2022, but the drop was more pronounced among non-loyalty customers.
+
+•	Overall, charts highlight stronger long-term resilience among loyalty members compared to non-loyalty customers.
+
+
+#
+<h1 align="center">Sales by Platforms & Channels </h1>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="visualizations/Marketing Channel 1.png" width="450"/>
+    </td>
+    <td align="center">
+      <img src="visualizations/Marketing Channel 2.png" width="460"/>
+    </td>
+  </tr>
+</table>
+
+
+•	The website platform dominated performance, generating 97% of total revenue ($27.2M) and the majority of orders.
+
+•	The mobile app produced 17% of orders but only 3% of revenue, driven by a significantly lower AOV ($47 vs $304 on the website).
+
+•	Direct traffic was the primary revenue driver, accounting for 83% of total sales ($23.2M).
+
+•	Email marketing was the most effective non-direct channel, contributing 12% of total revenue.
+
+•	Affiliate, social media, and other channels generated minimal revenue, indicating limited channel diversification.
+
+#
+<h1 align="center">Refund Rates & Loyalty Impact</h1>
+
+<b>Refund Rates by Product</b>
+
+<p align="centre"> 
+<img src="visualizations/Refund rates by product.png" width="750">
+</p>
+
+• Laptops had the highest refund rates, led by the ThinkPad Laptop, followed by the MacBook Air Laptop, both of which also have the highest AOVs.
+
+• Bose SoundSport Headphones recorded the lowest refund rates (near 0%), followed by the Samsung Charging Cable Pack (around 2%).
+
+• These low-refund products were also among the least frequently purchased, limiting their overall impact on refunds.
+
+• No product refunds were recorded in 2022, primarily due to lower order volumes rather than improved return behaviour.
+
+<b>Loyalty Impact on Refund Rates</b>
+
+<p align="centre"> 
+<img src="visualizations/Loyalty program impact on refund rates.png" width="750">
+</p>
+
+• Refund rates were elevated during the early pandemic period, peaking in 2019–2020, before stabilizing at lower levels in subsequent years.
+
+• In 2021, refund activity declined across both loyalty and non-loyalty segments compared to prior years.
+
+• High-ticket products, particularly laptops, showed the highest refund rates early on (around 17%), but these rates fell to single-digit levels in later years.
+
+• Apple AirPods Headphones recorded the highest refund count, driven by high order volume rather than unusually high refund rates.
+
+• Across all years, loyalty purchases consistently exhibited higher refund rates than non-loyalty purchases, suggesting increased engagement may also lead to higher return behaviour and warrant further investigation.
+
+#
+<h1 align="center">Regional Performance & Insights</h1>
+
+<p align="centre"> 
+<img src="visualizations/2019 vs 2022.png" width="750">
+</p>
+
+•	North America is Nexwave’s dominant market, contributing the largest share of sales across all regions. On average, it accounts for over 50% of total revenue, generating approximately $2.7M in sales in 2022.
+
+•	Sales performance in LATAM remains limited relative to other regions. The region contributes only around 5–6% of total revenue, with sales of roughly $255K in 2022.
+
+•	EMEA shows moderate and consistent performance, ranking as the second-largest revenue contributor. Regional sales increased from about $1M in 2019 to $1.3M in 2022, indicating steady demand.
+
+•	APAC delivers modest revenue but shows growth potential, with sales rising from approximately $423K in 2019 to $620K in 2022.
+
+•	Overall, Nexwave’s revenue is heavily concentrated in North America, highlighting both market strength and an opportunity to diversify growth across international regions.
+
