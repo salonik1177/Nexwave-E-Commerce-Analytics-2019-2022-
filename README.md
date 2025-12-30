@@ -133,8 +133,8 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 #
 <h1 align="center">Loyalty Program Learnings</h1>
 
-<p align="centre"> 
-<img src="visualizations/Table Insights.png" width="880">
+<p align="center"> 
+<img src="visualizations/Table Insights.png" width="900">
 </p>
 
 •	Loyalty customers consistently generate higher value, contributing more revenue and orders than non-loyalty customers by 2022.
@@ -199,8 +199,8 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 
 <b>Refund Rates by Product</b>
 
-<p align="centre"> 
-<img src="visualizations/Refund rates by product.png" width="750">
+<p align="center"> 
+<img src="visualizations/Refund rates by product.png" width="600">
 </p>
 
 • Laptops had the highest refund rates, led by the ThinkPad Laptop, followed by the MacBook Air Laptop, both of which also have the highest AOVs.
@@ -211,9 +211,10 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 
 • No product refunds were recorded in 2022, primarily due to lower order volumes rather than improved return behaviour.
 
+#
 <b>Loyalty Impact on Refund Rates</b>
 
-<p align="centre"> 
+<p align="center"> 
 <img src="visualizations/Loyalty program impact on refund rates.png" width="750">
 </p>
 
@@ -230,10 +231,11 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 #
 <h1 align="center">Regional Performance & Insights</h1>
 
-<p align="centre"> 
+<p align="center"> 
 <img src="visualizations/2019 vs 2022.png" width="750">
 </p>
 
+#
 •	North America is Nexwave’s dominant market, contributing the largest share of sales across all regions. On average, it accounts for over 50% of total revenue, generating approximately $2.7M in sales in 2022.
 
 •	Sales performance in LATAM remains limited relative to other regions. The region contributes only around 5–6% of total revenue, with sales of roughly $255K in 2022.
