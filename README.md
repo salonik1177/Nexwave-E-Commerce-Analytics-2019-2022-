@@ -246,3 +246,23 @@ The database contains four tables: Orders, Customers, Geo Lookup and Order statu
 
 •	Overall, Nexwave’s revenue is heavily concentrated in North America, highlighting both market strength and an opportunity to diversify growth across international regions.
 
+#
+
+## Recommendations
+
+<b>Reignite Demand Through Targeted Marketing</b>
+
+The primary driver of revenue decline is reduced order volume, not pricing. Nexwave should invest in demand-generation initiatives such as targeted promotions, seasonal campaigns, and re-engagement strategies for inactive customers—especially during historically strong Q4 periods.
+
+<b>Strengthen and Optimize the Loyalty Program</b>
+
+Revenue is heavily concentrated in high-ticket products and the North American market. Nexwave should diversify its product mix and expand growth efforts in underpenetrated regions (APAC and LATAM) to reduce exposure to demand volatility.
+
+<b>Leverage High-Performing Products More Strategically</b>
+
+Premium products drive the majority of revenue but show high volatility. Strategic bundling with lower-priced accessories and targeted cross-selling can increase order frequency while smoothing revenue fluctuations.
+
+<b>Monitor Refund Trends and Post-Purchase Experience</b>
+
+Higher refund rates among loyalty customers and high-ticket items suggest opportunities to improve product education, delivery experience, and post-purchase support. Reducing avoidable returns can directly improve margins without impacting sales volume.
+
